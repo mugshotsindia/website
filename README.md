@@ -1,2 +1,2 @@
-# MugDemo
+# just Readme
 Our Website
